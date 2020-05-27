@@ -10,8 +10,8 @@
     <Button
         android:id="@+id/bPresiona"
         style="@style/Widget.AppCompat.Button.Borderless"
-        android:layout_width="210dp"
-        android:layout_height="119dp"
+        android:layout_width="206dp"
+        android:layout_height="101dp"
         android:layout_marginStart="160dp"
         android:layout_marginLeft="160dp"
         android:layout_marginTop="76dp"
