@@ -17,10 +17,10 @@
 
 ## Integrantes del Grupo
 <ul>
+<li>Alexander Vanner Garcia Estrada</li>
 <li>Hector Yesid Ospina Neita</li>
-<li>Yeison Andrés González Pérez</li>
-<li>Alexander García</li>
 <li>Roland Camilo Torres Bejarano</li>
 <li>Yadira Eliana León Chaparro</li>
+<li>Yeison Andrés González Pérez</li>
 </ul>
 
